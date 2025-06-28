@@ -1,6 +1,6 @@
-# 📥 snap_ripper
+# 📥 Snapchat Ripper
 
-`snap_ripper` is a Python tool that helps you download all your exported Snapchat Memories — including both images and videos — directly from your `memories_history.html` file. It uses your authenticated session cookies to follow Snapchat's temporary links and download the actual media hosted on AWS servers.
+`Snapchat Ripper` is a Python tool that helps you download all your exported Snapchat Memories — including both images and videos — directly from your `memories_history.html` file. It uses your authenticated session cookies to follow Snapchat's temporary links and download the actual media hosted on AWS servers.
 
 ---
 
