@@ -55,7 +55,7 @@ Place the following files in the same directory:
 ## 🧑‍💻 How to Use
 
 ```bash
-python3 scan_with_cookies.py
+python3 snap_ripper.py
 ```
 
 Downloaded media will be saved to a folder called:
