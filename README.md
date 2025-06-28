@@ -48,7 +48,7 @@ Place the following files in the same directory:
    * [EditThisCookie (Chrome)](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
    * [Cookie-Editor (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)
 
-3. **`scan_with_cookies.py`** — The Python script provided in this repository.
+3. **`snap_ripper.py`** — The Python script provided in this repository.
 
 ---
 
