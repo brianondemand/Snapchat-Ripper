@@ -1,6 +1,6 @@
-# 📥 Snapchat Ripper
+# 📥 OHMYSNAP
 
-`Snapchat Ripper` is a Python tool that helps you download all your exported Snapchat Memories — including both images and videos — directly from your `memories_history.html` file. It uses your authenticated session cookies to follow Snapchat's temporary links and download the actual media hosted on AWS servers.
+`ohmysnap` is a Python tool that helps you download all your exported Snapchat Memories — including both images and videos — directly from your `memories_history.html` file. It uses your authenticated session cookies to follow Snapchat's temporary links and download the actual media hosted on AWS servers.
 
 ---
 
@@ -48,14 +48,14 @@ Place the following files in the same directory:
    * [EditThisCookie (Chrome)](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
    * [Cookie-Editor (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/)
 
-3. **`snap_ripper.py`** — The Python script provided in this repository.
+3. **`ohmysnap.py`** — The Python script provided in this repository.
 
 ---
 
 ## 🧑‍💻 How to Use
 
 ```bash
-python3 snap_ripper.py
+python3 ohmysnap.py
 ```
 
 Downloaded media will be saved to a folder called:
